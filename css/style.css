@@ -1,0 +1,97 @@
+body {
+   font-family: arial, sans-serif;
+   background-color: #f4f4f4;
+   margin: 0;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 300vh;
+}
+h1{
+    margin: 0;
+    color: #b78d5e;
+}
+h3{
+   color: #b78d5e; 
+   margin: 0; 
+   padding: 5px;
+}
+h4{
+    color: grey;
+    margin-top: 20px;
+}
+ul{
+    padding-right: 30px;
+    line-height: 1rem;
+}
+.full{
+    display: flex;
+    width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.left{
+    background-color: #EFE1D1;
+    padding: 20px;
+    width: 30%;
+    color: #b78d5e;
+}
+.right{
+    background-color: #fff; 
+    padding: 20px; 
+    width: 70%;
+    color: grey;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.contact{
+    margin-bottom: 20px;
+   
+}  
+.education{
+    margin-bottom: 20px; 
+    padding-left: 40px;
+}
+.award{
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-bottom: ;
+}
+.skills{
+    margin-bottom: 20px;
+    margin: 5px 0;
+    list-style: none;
+   padding-bottom: 20px;
+   padding-left: 40px;
+   line-height: 2rem;
+}
+.degree{
+    margin-bottom: 20px;
+    padding-left: 40px;
+}
+.job{
+    margin-top: 20px;
+}
+.profile{
+   margin-top: 20px;
+}
+.job-li{
+    margin: 10px 0;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+.con{
+   padding-left: 40px;
+}
+.award-ul{
+   padding-right: 30px;
+}
+.text{
+   text-align: center;
+   color: #b78d5e;
+}
